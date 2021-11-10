@@ -6,16 +6,16 @@
     --camel: #D8A47F;
 }
 
-/* html {
+html {
     font-size: 100%;
-  } */
+  }
 
 body {
     background-color: var(--light);
 }
 
 .h1 {
-    font-size: 10px;
+    font-size: 2.25rem;
 }
 
 .p {
