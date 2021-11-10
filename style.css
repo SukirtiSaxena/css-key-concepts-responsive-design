@@ -11,10 +11,21 @@ body {
 }
 
 .card {
+    border: 3px;
+    border-style:solid;
+    border-color:black;
     padding: 10px;
     margin: 10px;
 }
 
 img {
     width: 250px;
+}
+
+.card-container {
+    border: 4px;
+    border-style:solid;
+    border-color:blueviolet;
+    display: flex;
+    flex-wrap: wrap;
 }
